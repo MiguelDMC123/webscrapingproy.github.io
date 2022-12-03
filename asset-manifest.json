@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68dc7bc1.css",
+    "main.js": "/static/js/main.afb10c84.js",
+    "static/js/787.73acf48a.chunk.js": "/static/js/787.73acf48a.chunk.js",
+    "static/media/error2.png": "/static/media/error2.1be1f34d14b886b26c7d.png",
+    "static/media/ropaycalzado.png": "/static/media/ropaycalzado.ebdd51be16576042114d.png",
+    "static/media/carousel2.png": "/static/media/carousel2.203a9b42f6d217ee9982.png",
+    "static/media/carousel1.png": "/static/media/carousel1.08d1cd677005d396d957.png",
+    "static/media/electrodomesticos.png": "/static/media/electrodomesticos.e683948b36be465eff44.png",
+    "static/media/Tecnología.png": "/static/media/Tecnología.e9553cd9aa78dd880944.png",
+    "static/media/carousel3.png": "/static/media/carousel3.2634327f0a7971b48c9f.png",
+    "static/media/Frutasyverduras.png": "/static/media/Frutasyverduras.27a4b840bfe8c23e9631.png",
+    "static/media/realplaza.png": "/static/media/realplaza.9049585aba79a733097f.png",
+    "static/media/nosotros.png": "/static/media/nosotros.8f870571f5ce3ad3d865.png",
+    "static/media/metro.png": "/static/media/metro.8e7df926a4c935384f23.png",
+    "static/media/tottus.png": "/static/media/tottus.e07e024558a57ff90f0d.png",
+    "static/media/plazavea.png": "/static/media/plazavea.fe18b58c664cc83787eb.png",
+    "static/media/dudas.png": "/static/media/dudas.0dfd44007578b9af6b54.png",
+    "static/media/metroblanco.png": "/static/media/metroblanco.a0fbd18e6d0d9ee4d9db.png",
+    "static/media/veablanco.png": "/static/media/veablanco.f394062453513302a533.png",
+    "static/media/SuperMario256.ttf": "/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
+    "static/media/tottusblanco.png": "/static/media/tottusblanco.2293eb288aad2a9fa50a.png",
+    "static/media/realplazablanco.png": "/static/media/realplazablanco.a146146a50135d66ffb4.png",
+    "index.html": "/index.html",
+    "main.68dc7bc1.css.map": "/static/css/main.68dc7bc1.css.map",
+    "main.afb10c84.js.map": "/static/js/main.afb10c84.js.map",
+    "787.73acf48a.chunk.js.map": "/static/js/787.73acf48a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68dc7bc1.css",
+    "static/js/main.afb10c84.js"
+  ]
+}
